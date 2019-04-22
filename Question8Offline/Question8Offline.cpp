@@ -26,6 +26,7 @@ extern "C" void printString(char* s)
 int main()
 {
 	calcLucasRatio();
+	cout << "Program done" << endl;
 	return 0;
 }
 
